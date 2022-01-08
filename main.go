@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Printf("Welcome to the Standard Version Test")
-	fmt.Printf("Next Version Whoop")
+	fmt.Println("Welcome to the Standard Version Test")
+	fmt.Println("Next Version Whoop")
 }
