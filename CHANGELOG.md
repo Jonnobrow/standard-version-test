@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/Jonnobrow/standard-version-test/compare/v1.0.0...v1.1.0) (2022-01-08)
+
+
+### Features
+
+* **main:** Replace print statements ([5bc828f](https://github.com/Jonnobrow/standard-version-test/commit/5bc828f0b33f9b3272ef5fd092c0b37a0ae23973))
+
 ## 1.0.0 (2022-01-08)
 
 
